@@ -22,8 +22,7 @@ L’objectif est de centraliser nos lectures, de résumer les idées principales
 | `a-lire/`      | Articles à lire, avec références et objectifs |
 | `lu/`          | Articles lus et résumés détaillés |
 | `elu/`         | Articles sélectionnés comme les plus pertinents pour le PFE |
-| `notes/`       | Notes personnelles et concepts récurrents |
-| `resources/`   | Liens, outils et autres ressources utiles |
+
 
 
 ---
