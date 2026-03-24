@@ -50,8 +50,8 @@ L’article conclut que les hallucinations sont presque inévitables dans les mo
       -> Factuelle (contre des faits connus)  
       -> Contextuelle (contre l’entrée fournie)  
     - **Fabrication** (entités, événements ou citations complètement inventés)  
-    - **Sophisme logique** (raisonnement invalide, ex. « Si A > B et B > C, alors C > A »)  
+    - **Sophisme logique** (raisonnement invalide)  
     - **Incohérence d’instruction** (déviation par rapport à la consigne)  
     - **Incohérence de contexte** (déviation du texte source)  
-    - **Erreur d’entité / de relation** (nom d’entité incorrect, relation déformée)  
+    - **Erreur d’entité/de relation** (nom d’entité incorrect, relation déformée)  
 ---
