@@ -24,7 +24,13 @@ La detection s'appuie sur quatres axes :
 - **NLI**
 - **Approches QA**
 - **Métriques d’incertitude** : évaluées sur des bancs tels que **HalluEval**, **TruthfulQA** et **HalluQA**.
+### Benchmarks spécifiques :
 
+Huang répertorie les jeux de référence : HalluEval, Med‑HALT, TruthfulQA et décrit leurs domaines d’évaluation (ouvert, médical, factuel).
+
+<p align="center">
+  <img src="./uploads/figure3.PNG" width="500">
+</p>
 <h3>Techniques de mitigation </h3>
 
  Trois stratégies decrites :
