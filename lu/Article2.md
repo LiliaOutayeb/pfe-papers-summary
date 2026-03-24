@@ -36,7 +36,7 @@ La detection s'appuie sur quatres axes :
 
 L’article montre que le RAG échoue lorsque le récupérateur ne trouve pas de documents pertinents ou renvoie des sources contradictoires.
 
-###Solutions proposées : 
+### Solutions proposées : 
 - **Récupération adaptative**
 - **Attribution robuste des sources**
 - **Extension aux hallucinations vision‑langage et à la probing de la frontière de connaissance**
