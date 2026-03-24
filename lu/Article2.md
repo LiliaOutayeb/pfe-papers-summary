@@ -11,7 +11,7 @@ Huang et al. concluent que la taxonomie à deux niveaux pour classer les halluci
 
  <h3>Catégories des causes des hallucinations</h3>
 
-### Les causes sont regroupées en trois catégories : 
+Les causes sont regroupées en trois catégories : 
 
 - **Données** (désinformation, biais, lacunes de connaissances)
 - **Entraînement** (pré‑entraînement, fine‑tuning supervisé, RLHF)
@@ -19,18 +19,18 @@ Huang et al. concluent que la taxonomie à deux niveaux pour classer les halluci
 
 <h3>Techniques de detection </h3>
 
-### La deection s'appuie sur quatres axes :
--**Fact‑checking**
--**NLI**
--**approches QA**
--**Métriques d’incertitude** : évaluées sur des bancs tels que **HalluEval**, **TruthfulQA** et **HalluQA**.
+La detection s'appuie sur quatres axes :
+- **Fact‑checking**
+- **NLI**
+- **Approches QA**
+- **Métriques d’incertitude** : évaluées sur des bancs tels que **HalluEval**, **TruthfulQA** et **HalluQA**.
 
 <h3>Techniques de mitigation </h3>
 
-### Trois stratégies decrites :
--**Filtrage et amélioration des données**
--**Edition du modèle (knowledge editing, RLHF)**
--**RAG**
+ Trois stratégies decrites :
+- **Filtrage et amélioration des données**
+- **Edition du modèle (knowledge editing, RLHF)**
+- **RAG**
 
 ---
 
