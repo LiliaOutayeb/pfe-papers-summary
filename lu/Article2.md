@@ -29,7 +29,7 @@ La detection s'appuie sur quatres axes :
 Huang répertorie les jeux de référence : HalluEval, Med‑HALT, TruthfulQA et décrit leurs domaines d’évaluation (ouvert, médical, factuel).
 
 <p align="center">
-  <img src="./uploads/figure3.PNG" width="500">
+  <img src="./uploads/figure1.PNG" width="500">
 </p>
 <h3>Techniques de mitigation </h3>
 
