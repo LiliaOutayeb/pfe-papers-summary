@@ -6,8 +6,7 @@ Ce sous-dossier contient tous les articles que nous avons lus et résumés dans 
 ---
 
 ## Que trouve-t-on dans ce dossier ?
-
-- Des fichiers Markdown (`.md`) pour chaque article étudié  
+- L'ensemble des articles lus et résumés.
 - Chaque fichier contient :
   - Le titre de l’article  
   - La référence ou le lien vers l’article  
