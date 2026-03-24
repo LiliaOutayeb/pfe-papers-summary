@@ -13,9 +13,9 @@ Huang et al. concluent que la taxonomie à deux niveaux pour classer les halluci
 
 ### Les causes sont regroupées en trois catégories : 
 
--**données** (désinformation, biais, lacunes de connaissances)
--**entraînement** (pré‑entraînement, fine‑tuning supervisé, RLHF)
--**inférence** (sur‑confiance, goulot d’étranglement du soft‑max, échec de raisonnement)
+- **Données** (désinformation, biais, lacunes de connaissances)
+- **Entraînement** (pré‑entraînement, fine‑tuning supervisé, RLHF)
+- **Inférence** (sur‑confiance, goulot d’étranglement du soft‑max, échec de raisonnement)
 
 <h3>Techniques de detection </h3>
 
