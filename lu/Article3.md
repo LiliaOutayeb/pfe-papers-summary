@@ -13,16 +13,12 @@ L’article propose une estimation supervisée de l’incertitude des LLM : on
 
  <h3>Points clés</h3>
 
- - Les expériences montrent que les modèles supervisés surpassent les baselines non‑supervisées (AUROC ≈ 0.83 sur Gemma‑7B, 0.72–0.83 sur LLaMA) et améliorent la calibration, même en out‑of‑distribution QA
+ - Les expériences montrent que les modèles supervisés surpassent les baselines non‑supervisées et améliorent la calibration, même en out‑of‑distribution QA
  - **Utilisation des activations cachées** : démonstration que les neurones internes contiennent de l’information d’incertitude, exploitée uniquement dans le mode white‑box
  - Applicabilité aux modèles fermés : le régime black‑box (Bb‑S) permet d’estimer l’incertitude d’un LLM propriétaire en utilisant un "LLM tool" ouvert
 ---
 ##To be continued
 
----
-
-<h3> Conclusion </h3>
-L'article formule explicitement des _open questions_ : comment mesurer la certitude du modèle, comment intégrer la supervision humaine à grande échelle, et comment concevoir des métriques universelles pour les deux niveaux de taxonomie.
 
 ---
 
