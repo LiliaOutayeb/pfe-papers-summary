@@ -30,6 +30,8 @@ On peut distinguer trois pilliers de qualité:
 ### Notion de calibration 
 c'est l'adéquation entre la confiance affiché par un modèle et sa précision réelle ... to be continued.
 
+---
+
 ### Activation de neurones cachés 
 
 Le point de rupture de ce papier est le passage d'une analyse de surface (probabilités des tokens) à une analyse structurelle (**activations des neurones cachés**).
