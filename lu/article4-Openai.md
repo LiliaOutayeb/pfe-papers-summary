@@ -14,3 +14,5 @@ donc ou, durant la créations du modèle, a quel moment durant ce processus, ces
   inevitably contains errors and half-truths. However, we show that even if the training data were
   error-free, the objectives optimized during language model training would lead to errors being
   generated.** => the objectives optimized 🤔
+
+- Optimized objectives : ou le modèle se fait evaluer selon s'il répond juste ou pas, et selon l'article c'est là que se trouve le problème
