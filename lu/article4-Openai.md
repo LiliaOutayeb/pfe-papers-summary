@@ -1,6 +1,6 @@
 # titre : Why language models hallucinate (2025)
 
-##Selon l'article :
+## Selon l'article :
 
 Les LLMs en produisant des fausses declarations flagrantes (hallucinations) deviennent pas très digne de confiance,
 donc ou, durant la créations du modèle, a quel moment durant ce processus, ces hallucinations entrent-elles en jeu ?
